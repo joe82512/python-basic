@@ -1,9 +1,9 @@
 # python-basic
 1. refer to **Chapter 2 Python 基礎教學** of the Python teaching document
-2. basic Modular Design and Object Oriented Programming with Python
-3. basic SQL operations with Python
-4. basic web crawler with Python
-5. basic GUI program with Python
+2. basic Modular Design and **Object Oriented Programming** with Python
+3. basic **SQL** operations with Python
+4. basic web **crawler** with Python
+5. basic **GUI** program with Python
 
 ![image](https://github.com/joe82512/demo/blob/ver1/%E8%82%A1%E7%A5%A8%E7%88%AC%E8%9F%B2.jpg)
 
